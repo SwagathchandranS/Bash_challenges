@@ -1,0 +1,4 @@
+## 6
+
+##### (a) Go to directory d and rename “file3” to “file0”
+##### (b) Stay in the same directory and move “file0” to directory a
