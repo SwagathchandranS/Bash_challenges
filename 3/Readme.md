@@ -1,0 +1,6 @@
+## 3
+
+##### (a) Stay in directory a. Create a file “file2” and add the contents below using the  command cat 
+#### "First Line Second Line Third Line"
+##### (b) Display the contents of “file2”
+##### (c) Display the contents of “file2” with the lines reversed
