@@ -1,4 +1,4 @@
-### 1
+## 1
 
 ##### (a) Display the path of your current directory
 ##### (b) List out the contents of your current directory
