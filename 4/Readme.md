@@ -1,0 +1,4 @@
+## 4
+
+##### (a) Stay in directory a. Concatenate the contents of “file1” and “file2” and save them into a new file “file3”
+##### (b) Display the contents of “file3”
