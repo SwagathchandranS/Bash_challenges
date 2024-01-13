@@ -76,4 +76,4 @@ Remember, the goal of this challenge is to improve your Bash scripting skills, s
 
 ## Credits
 
-I extend our gratitude to Google for providing valuable resources and support during the development of this project.Their services have played a crucial role in enhancing the functionality and performance of our application.
+I extend our gratitude to Google for providing valuable resources and support during the development of this task.
