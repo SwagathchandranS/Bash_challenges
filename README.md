@@ -31,7 +31,7 @@ The primary goal of this challenge is to enhance your Bash scripting skills in a
 
 ## How to Use 
 
-Welcome to the Bash Scripting Challenge! Follow these steps to make the most of your participation:
+Follow these steps to make the most of your participation:
 
 ### Access the Challenges:
 
